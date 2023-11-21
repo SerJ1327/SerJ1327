@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center" >Hello 👋</h1>
+
+<p align="center" >
+ <a href="https://github.com/SerJ1785/codewars_readme_stats">
+   <img src="https://github.r2v.ch/codewars?user=SerJ1785&name=true&top_languages=true&theme=gradient" />
+ </a>
+</p>
+
