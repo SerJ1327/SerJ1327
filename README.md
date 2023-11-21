@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **SerJ1327/SerJ1327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,6 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center" >Hello 👋</h1>
-
 <p align="center" >
  <a href="https://github.com/SerJ1785/codewars_readme_stats">
    <img src="https://github.r2v.ch/codewars?user=SerJ1785&name=true&top_languages=true&theme=gradient" />
